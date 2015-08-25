@@ -41,6 +41,9 @@ Thumbs.db
 *.xdy
 *.tdo
 *.fls
+*.pyg
+*.pygstyle
+*.pygtex
 
 # VIM
 *.swp
